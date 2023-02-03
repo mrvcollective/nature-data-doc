@@ -4,7 +4,7 @@ Welcome! The NatureData.org team works at a rapid intentional pace to matches th
 
 ## Catalog Release v0.1.0
 
-The engineering team delivered 22 user stories. The team ingested over 800 data set entries with 24 columns of metadata collected by the TNFD since last year. Features delivered included full text and faceted search, card and list views for datasets. Frontend and backend architecture.&#x20;
+The engineering team delivered 22 user stories, ingesting over 800 data set entries with 24 columns of metadata collected by the TNFD since last year. Features delivered included full text and faceted search, card and list views for datasets, frontend and backend architecture foundations.&#x20;
 
 ## January 2022
 
