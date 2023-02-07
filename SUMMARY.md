@@ -4,7 +4,9 @@
 
 ## release notes
 
-* [What's New!](release-notes/whats-new.md)
+* [What's New!](release-notes/whats-new/README.md)
+  * [Release v0.1.0](release-notes/whats-new/release-v0.1.0.md)
+  * [Release v0.0.0](release-notes/whats-new/release-v0.0.0.md)
 
 ## g4n concepts
 
