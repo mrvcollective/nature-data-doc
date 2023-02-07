@@ -12,8 +12,8 @@
 * [Overview](concepts/overview.md)
 * [What is the Nature Data Catalog?](g4n-concepts/what-is-the-nature-data-project-draft.md)
 * [Design Principles](concepts/design-principles.md)
-* [Data Sources (draft)](concepts/data-sources-draft.md)
 * [Consumers & Providers (draft)](concepts/consumers-and-providers-draft.md)
+* [Data Sources (draft)](concepts/data-sources-draft.md)
 
 ## using g4n
 
@@ -22,6 +22,7 @@
   * [SBTN](using-g4n/framework-alignment-draft/sbtn.md)
   * [Other](using-g4n/framework-alignment-draft/other.md)
 * [Licensing & Business Model (draft)](using-g4n/licensing-and-business-model-draft.md)
+* [Data Sources (draft)](using-g4n/data-sources-draft.md)
 
 ## reference
 
