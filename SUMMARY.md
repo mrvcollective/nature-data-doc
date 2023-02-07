@@ -10,7 +10,10 @@
 ## Concepts
 
 * [Overview (draft)](concepts/overview-draft.md)
-* [What is the Nature Data Project (draft)](concepts/what-is-the-nature-data-project-draft.md)
+* [What is the Nature Data Catalog?](concepts/what-is-the-nature-data-catalog.md)
+* [Design Principles](concepts/design-principles.md)
+* [Data Sources](concepts/data-sources.md)
+* [Consumers & Providers](concepts/consumers-and-providers.md)
 
 ## using g4n
 
@@ -23,7 +26,7 @@
 ## reference
 
 * [FAQ](reference/faq.md)
-* [Roadmap & Timeline](reference/roadmap-and-timeline.md)
+* [Roadmap](reference/roadmap.md)
 * [Contributing](reference/contributing/README.md)
   * [Contributor Guide](reference/contributing/contributor-guide.md)
   * [Contribute a Data Sources](reference/contributing/contribute-a-data-sources.md)

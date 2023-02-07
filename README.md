@@ -12,4 +12,4 @@ Feel free to chat with us on \[TBD, Slack, Discord, etc]
 
 Thank you from the entire G4N team!
 
-<img src=".gitbook/assets/site.png" alt="" data-size="original">
+<img src=".gitbook/assets/site (1).png" alt="" data-size="original">
