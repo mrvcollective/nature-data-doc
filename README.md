@@ -11,3 +11,5 @@ Please [let us know](mailto:hello@mrvcollective.org) if you have updates and/or 
 Feel free to chat with us on \[TBD, Slack, Discord, etc]
 
 Thank you from the entire G4N team!
+
+<img src=".gitbook/assets/site (1).png" alt="" data-size="original">

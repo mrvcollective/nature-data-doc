@@ -6,16 +6,14 @@
 
 * [What's New!](release-notes/whats-new/README.md)
   * [Release v0.1.0](release-notes/whats-new/release-v0.1.0.md)
-  * [Release v0.0.0](release-notes/whats-new/release-v0.0.0.md)
 
-## g4n concepts
+## Concepts
 
-* [Overview (draft)](g4n-concepts/overview-draft.md)
-* [What is the Nature Data Project (draft)](g4n-concepts/what-is-the-nature-data-project-draft.md)
+* [Overview (draft)](concepts/overview-draft.md)
+* [What is the Nature Data Project (draft)](concepts/what-is-the-nature-data-project-draft.md)
 
 ## using g4n
 
-* [G4N Tools (draft)](using-g4n/g4n-tools-draft.md)
 * [Framework Alignment (draft)](using-g4n/framework-alignment-draft/README.md)
   * [TNFD (draft)](using-g4n/framework-alignment-draft/tnfd-draft.md)
   * [SBTN](using-g4n/framework-alignment-draft/sbtn.md)

@@ -30,7 +30,12 @@ This release includes the technical foundations to allow users to view datasets 
 
 #### Improvements
 
-* new database schema structure that supports &#x20;
+* new database schema structure to support new contexts and face categories
+
+#### Other Updates
+
+* Steering Committee meeting scheduled for 14 February 2022
+* Pilot participant interviews initiated
 
 ## January 2022
 
@@ -59,6 +64,8 @@ This marks the proof of concept release of the Nature Data Catalog. The release 
 * [Steering Committee kickoff](https://lu.ma/g4n-kickoff).&#x20;
   * Members included: [Audubon Society](https://www.audubon.org/), [Beta Earth](https://betaearth.global), [Conservation X Labs](https://conservationxlabs.com/), [Global Commons Alliance](https://globalcommonsalliance.org/), [Nature4Climate](https://nature4climate.org), [One Earth](https://oneearth.org), [Pollination Group](https://pollinationgroup.com/), [Systemiq](https://www.systemiq.earth/), and [TNFD](https://tnfd.global)
 * [Website launched](https://www.naturedata.org)
+* [Gitbook launched](https://docs.naturedata.org) (this site)
+* [Demo launched](https://demo.naturedata.org)
 * Sprint planning cadence initiated
 * Review of ecosystem realm lead applicants initiated
 
