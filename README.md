@@ -1,6 +1,6 @@
 # Welcome
 
-## Welcome to the Official Nature Data Catalog Documentation
+## Welcome to the  NatureData.org Catalog Documentation
 
 Here you will find everything you need to know about the "Github 4 Nature" Data Catalog (aka G4N).
 
@@ -10,4 +10,4 @@ Please [let us know](mailto:hello@mrvcollective.org) if you have updates and/or 
 
 Feel free to chat with us on \[TBD, Slack, Discord, etc]
 
-Thank you from the entire G4N team interest!
+Thank you from the entire G4N team!
