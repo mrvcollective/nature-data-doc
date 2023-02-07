@@ -1,4 +1,4 @@
-# Roadmap & Timeline
+# Roadmap
 
 The Nature Data Catalog roadmap can be broken down into the following four general phases as follows.
 

@@ -12,8 +12,8 @@
 * [Overview (draft)](concepts/overview-draft.md)
 * [What is the Nature Data Catalog?](concepts/what-is-the-nature-data-catalog.md)
 * [Design Principles](concepts/design-principles.md)
-* [Data Sources](concepts/data-sources.md)
-* [Consumers & Providers](concepts/consumers-and-providers.md)
+* [Data Sources (draft)](concepts/data-sources-draft.md)
+* [Consumers & Providers (draft)](concepts/consumers-and-providers-draft.md)
 
 ## using g4n
 

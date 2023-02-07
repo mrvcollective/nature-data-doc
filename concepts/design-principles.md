@@ -17,7 +17,7 @@ Many frameworks and projects are initiated with a top down approach. Its importa
 
 The Nature Data Catalog is being designed with FAIR and CARE principles.
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 ### FAIR
 

@@ -4,4 +4,4 @@ The mission of the “Github for Nature” Data Catalog is to mobilize public an
 
 In this section you can learn more about the data catalog and also explore the data principles, development model, and usage.&#x20;
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (1).png>)
