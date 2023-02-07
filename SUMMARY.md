@@ -14,10 +14,10 @@
 
 ## using g4n
 
-* [Framework Alignment (draft)](using-g4n/framework-alignment-draft/README.md)
-  * [TNFD (draft)](using-g4n/framework-alignment-draft/tnfd-draft.md)
-  * [SBTN](using-g4n/framework-alignment-draft/sbtn.md)
-  * [Other](using-g4n/framework-alignment-draft/other.md)
+* [Framework Alignment](using-g4n/framework-alignment/README.md)
+  * [TNFD (draft)](using-g4n/framework-alignment/tnfd-draft.md)
+  * [SBTN](using-g4n/framework-alignment/sbtn.md)
+  * [Other](using-g4n/framework-alignment/other.md)
 * [Licensing & Business Model (draft)](using-g4n/licensing-and-business-model-draft.md)
 
 ## reference

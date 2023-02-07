@@ -10,4 +10,4 @@ The mission of the “Github for Nature” Data Catalog is to mobilise public an
 
 The project adds value for consumers of data by providing benefits across datasets and models including normalization, standardization, aggregation, metadata data, and curation.&#x20;
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
