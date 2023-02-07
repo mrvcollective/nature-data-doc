@@ -9,24 +9,24 @@
 
 ## Concepts
 
-* [Overview (draft)](concepts/overview-draft.md)
-* [What is the Nature Data Catalog?](concepts/what-is-the-nature-data-catalog.md)
+* [Overview (draft)](g4n-concepts/overview-draft.md)
+* [What is the Nature Data Catalog?](g4n-concepts/what-is-the-nature-data-project-draft.md)
 * [Design Principles](concepts/design-principles.md)
 * [Data Sources (draft)](concepts/data-sources-draft.md)
 * [Consumers & Providers (draft)](concepts/consumers-and-providers-draft.md)
 
 ## using g4n
 
-* [Framework Alignment](using-g4n/framework-alignment/README.md)
-  * [TNFD (draft)](using-g4n/framework-alignment/tnfd-draft.md)
-  * [SBTN](using-g4n/framework-alignment/sbtn.md)
-  * [Other](using-g4n/framework-alignment/other.md)
+* [Framework Alignment](using-g4n/framework-alignment-draft/README.md)
+  * [TNFD (draft)](using-g4n/framework-alignment-draft/tnfd-draft.md)
+  * [SBTN](using-g4n/framework-alignment-draft/sbtn.md)
+  * [Other](using-g4n/framework-alignment-draft/other.md)
 * [Licensing & Business Model (draft)](using-g4n/licensing-and-business-model-draft.md)
 
 ## reference
 
 * [FAQ](reference/faq.md)
-* [Roadmap](reference/roadmap.md)
+* [Roadmap](reference/roadmap-and-timeline.md)
 * [Contributing](reference/contributing/README.md)
   * [Contributor Guide](reference/contributing/contributor-guide.md)
   * [Contribute a Data Sources](reference/contributing/contribute-a-data-sources.md)
