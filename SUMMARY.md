@@ -9,7 +9,7 @@
 
 ## Concepts
 
-* [Overview (draft)](g4n-concepts/overview-draft.md)
+* [Overview](concepts/overview.md)
 * [What is the Nature Data Catalog?](g4n-concepts/what-is-the-nature-data-project-draft.md)
 * [Design Principles](concepts/design-principles.md)
 * [Data Sources (draft)](concepts/data-sources-draft.md)
