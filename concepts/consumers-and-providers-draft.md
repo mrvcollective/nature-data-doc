@@ -1,10 +1,10 @@
 # Consumers & Providers (draft)
 
-## Data Providers
-
-The catalog workds a
-
 ## Data Consumers
+
+\[To be drafted]
+
+## Data Providers
 
 #### Data & Standards
 
