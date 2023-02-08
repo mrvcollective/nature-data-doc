@@ -1,10 +1,10 @@
 # Consumers & Providers (draft)
 
-## Data Consumers
-
-\[TODO Placeholder]
-
 ## Data Providers
+
+The catalog workds a
+
+## Data Consumers
 
 #### Data & Standards
 
