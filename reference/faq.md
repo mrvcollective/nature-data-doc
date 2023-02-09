@@ -1,10 +1,6 @@
 # FAQ (draft)
 
-## This section will be updated soon
-
 ## General
-
-### What is the Nature Data Catalog?
 
 #### Who maintains G4N?
 
