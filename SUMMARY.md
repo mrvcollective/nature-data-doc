@@ -26,7 +26,7 @@
 
 ## reference
 
-* [FAQ](reference/faq.md)
+* [FAQ (draft)](reference/faq-draft.md)
 * [Roadmap](reference/roadmap-and-timeline.md)
 * [Contributing](reference/contributing/README.md)
   * [Contributor Guide](reference/contributing/contributor-guide.md)
