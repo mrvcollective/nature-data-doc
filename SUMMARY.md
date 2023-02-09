@@ -19,7 +19,7 @@
 
 * [Framework Alignment](using-g4n/framework-alignment-draft/README.md)
   * [TNFD (draft)](using-g4n/framework-alignment-draft/tnfd-draft.md)
-  * [SBTN (draft)](using-g4n/framework-alignment/sbtn-draft.md)
+  * [SBTN (draft)](using-g4n/framework-alignment-draft/sbtn.md)
   * [Other](using-g4n/framework-alignment-draft/other.md)
 * [Licensing & Business Model (draft)](using-g4n/licensing-and-business-model-draft.md)
 * [Data Sources (draft)](using-g4n/data-sources-draft.md)
