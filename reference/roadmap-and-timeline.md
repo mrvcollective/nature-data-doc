@@ -1,6 +1,6 @@
 # Roadmap
 
-The Nature Data Catalog roadmap can be broken down into the following four general phases as follows.
+The Nature Data Catalog roadmap can be broken down into the following four general phases as follows. That said, priorities can change and we welcome [ideas, suggestions, and feedback here](https://tiny.cc/g4n-ideas).
 
 1.  Open Data Catalog
 
