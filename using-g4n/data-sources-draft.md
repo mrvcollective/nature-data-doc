@@ -1,6 +1,6 @@
 # Data Sources (draft)
 
-The catalog includes an expanding list of hundreds of data sources both public and private.
+The catalog includes an expanding list of hundreds of data sources.
 
 ## Have a data set to recommend?
 
