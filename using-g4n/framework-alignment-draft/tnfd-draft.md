@@ -1,3 +1,3 @@
 # TNFD (draft)
 
-The catalog is initially aligned to the TNFD framework and intends to accelerate implementation and adoption by supporting implementers to&#x20;
+The catalog is initially aligned to the TNFD framework. This section will be expanded further in subsequent updates.

@@ -34,4 +34,4 @@ The entire project is envisioned to be self sustaining and shall be entrusted to
 
 Close alignment with disclosure and reporting frameworks including TNFD, SBTN, and GRI GSSB 304. Datasets can be leveraged to support numerous frameworks amplifying impacts for both consumers and providers.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
