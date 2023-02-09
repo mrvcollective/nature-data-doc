@@ -4,6 +4,6 @@ The catalog is initially aligned to the TNFD framework. This section will be exp
 
 ## Release Schedule
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (4).png>)
