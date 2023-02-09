@@ -15,4 +15,4 @@ The Nature Data Catalog roadmap can be broken down into the following four gener
 
     Ability to list and share code and models which are built upon datasets. Code contribution, data lineage users can upload nature data models and code with full forking, branching, version tracking etc. (Github capabilities)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>The four phase of the nature data catalog project.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>The four phase of the nature data catalog project.</p></figcaption></figure>

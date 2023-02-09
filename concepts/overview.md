@@ -4,5 +4,5 @@ The purpose of the Nature Data Catalog is to make biodiversity nature data acces
 
 In this section you can learn more about the various foundational concepts regarding this project and you can refer to the following diagram as a high-level reference.
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 

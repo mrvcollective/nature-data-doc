@@ -6,4 +6,4 @@ The catalog is initially aligned to the TNFD framework. This section will be exp
 
 ![](<../../.gitbook/assets/image (2).png>)
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (2).png>)
