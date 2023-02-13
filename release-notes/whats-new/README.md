@@ -12,14 +12,20 @@ Date: 2022.02.14
 
 This release includes the technical foundations to allow users to view datasets in different contexts such as the TNFD LEAP approach, TNFD Realms, SBTN, and others.
 
-#### Data Sets Added
+#### Data Sets Staged Added
 
 * [WWF Risk Filter datasets](https://wwf.panda.org/wwf\_news/?7438966/WWFs-new-Biodiversity-Risk-Filter-helps-companies-tackle-nature-related-risks)
 * [Hub Ocean datasets](https://www.hubocean.earth/platform-data)
 * [Harmonized World Soils datasets via FAO](https://gaez.fao.org/pages/hwsd)
-* Ocean Disclosure Project datasets (pending)
-* Fishchoice datasets (pending)
+* Ocean Disclosure Project datasets
+* Fishchoice datasets
+* Awesome GEE 
 * Additional WWF datasets
+
+### Tools Staged
+ 
+* TNFD Tools
+* Shift Tool 
 
 #### New Features
 
@@ -30,7 +36,7 @@ This release includes the technical foundations to allow users to view datasets 
 
 #### Improvements
 
-* new database schema structure to support new contexts and face categories
+* new database schema structure to support new contexts and facet categories
 
 #### Other Updates
 
