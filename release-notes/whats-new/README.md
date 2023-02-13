@@ -12,20 +12,20 @@ Date: 2022.02.14
 
 This release includes the technical foundations to allow users to view datasets in different contexts such as the TNFD LEAP approach, TNFD Realms, SBTN, and others.
 
-#### Data Sets Staged Added
+#### Data Sets Staged
 
 * [WWF Risk Filter datasets](https://wwf.panda.org/wwf\_news/?7438966/WWFs-new-Biodiversity-Risk-Filter-helps-companies-tackle-nature-related-risks)
 * [Hub Ocean datasets](https://www.hubocean.earth/platform-data)
 * [Harmonized World Soils datasets via FAO](https://gaez.fao.org/pages/hwsd)
 * Ocean Disclosure Project datasets
 * Fishchoice datasets
-* Awesome GEE 
+* Awesome GEE
 * Additional WWF datasets
 
 ### Tools Staged
- 
+
 * TNFD Tools
-* Shift Tool 
+* Shift Tool
 
 #### New Features
 
@@ -45,7 +45,7 @@ This release includes the technical foundations to allow users to view datasets 
 
 ## January 2022
 
-### v0.1.0,  "Proof of Concept" (released)
+### v0.1.0, "Proof of Concept" (released)
 
 Date: 2022.01.17
 
@@ -67,7 +67,7 @@ This marks the proof of concept release of the Nature Data Catalog. The release 
 
 #### Other Updates
 
-* [Steering Committee kickoff](https://lu.ma/g4n-kickoff).&#x20;
+* [Steering Committee kickoff](https://lu.ma/g4n-kickoff).
   * Members included: [Audubon Society](https://www.audubon.org/), [Beta Earth](https://betaearth.global), [Conservation X Labs](https://conservationxlabs.com/), [Global Commons Alliance](https://globalcommonsalliance.org/), [Nature4Climate](https://nature4climate.org), [One Earth](https://oneearth.org), [Pollination Group](https://pollinationgroup.com/), [Systemiq](https://www.systemiq.earth/), and [TNFD](https://tnfd.global)
 * [Website launched](https://www.naturedata.org)
 * [Gitbook launched](https://docs.naturedata.org) (this site)
@@ -79,8 +79,8 @@ This marks the proof of concept release of the Nature Data Catalog. The release 
 
 #### Summary
 
-The Nature Data team returned from Montreal and COP15 after hosting a data lab with the TNFD and presenting the nature data catalog. [See recap and special update here](https://us9.campaign-archive.com/?u=ec1241c4f60f6425571055e55\&id=2f15e68fc4). Steering committee members invited and kickoff scheduled for January.&#x20;
+The Nature Data team returned from Montreal and COP15 after hosting a data lab with the TNFD and presenting the nature data catalog. [See recap and special update here](https://us9.campaign-archive.com/?u=ec1241c4f60f6425571055e55\&id=2f15e68fc4). Steering committee members invited and kickoff scheduled for January.
 
 * Steering committee kickoff scheduled
 * [COP 15 Presentation](https://www.youtube.com/watch?v=0vSjcJrfixI)
-* Ecosystem Realm leads outreach initiated — [more info here](https://tiny.cc/g4n-realmleads)!&#x20;
+* Ecosystem Realm leads outreach initiated — [more info here](https://tiny.cc/g4n-realmleads)!
