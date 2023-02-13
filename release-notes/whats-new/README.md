@@ -19,7 +19,7 @@ This release includes the technical foundations to allow users to view datasets 
 * [Harmonized World Soils datasets via FAO](https://gaez.fao.org/pages/hwsd)
 * Ocean Disclosure Project datasets
 * Fishchoice datasets
-* Awesome GEE
+* Awesome GEE Community Catalog
 * Additional WWF datasets
 
 ### Tools Staged
