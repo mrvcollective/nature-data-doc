@@ -16,12 +16,12 @@ Each data provider provides their own license and distribution guidelines.&#x20;
 
 #### Does this compete with data providers or tool providers?
 
-No. The catalog is a discovery tool and our intention is to help people find the best available data sources aligned to the frameworks they are working with. We provide qualified leads for data providers and tool providers and encourage interoperability to encourage cross sector collaboration. &#x20;
+No. The catalog is a discovery tool and our intention is to help people find the best available data sources aligned to the frameworks they are working with. We provide qualified leads for data providers and tool providers and encourage interoperability to encourage cross sector collaboration.&#x20;
 
 #### Does the catalog ingest data?
 
 No. We don't plan to host data sets directly, however if there is enough interest we may consider it.&#x20;
 
-## Technical Questions
+**Does the catalog provide data samples?**
 
-To be completed.
+We are working with data providers to include sample data and metadata to help data teams better understand the structure of the data they are consuming.&#x20;
