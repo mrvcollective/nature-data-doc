@@ -6,7 +6,7 @@ Do you want to contribute to G4N? Awesome! We’d love your help. To make it eas
 
 ### A Word On Governance
 
-G4N is governed by a small, dedicated and experienced team of maintainers. This team decides which contributions are accepted and included in releases, based largely on input and feedback from the steering committee, realm leads, and wider community. In this role, our principal goal is to ensure that G4N adheres to its \[TBD: DESIGN GOALS] while welcoming and facilitating broad contribution from the growing G4N user community.
+G4N is governed by a small, dedicated and experienced team of maintainers. This team decides which contributions are accepted and included in releases, based largely on input and feedback from the steering committee, realm leads, and wider community. In this role, our principal goal is to ensure that G4N adheres to its [design principles](../../concepts/design-principles.md) while welcoming and facilitating broad contribution from the growing G4N user community.
 
 When discussing GitHub procedures, we’ll use the term “committers” to refer to this group.
 
@@ -14,10 +14,11 @@ When discussing GitHub procedures, we’ll use the term “committers” to refe
 
 G4N is designed with four goals in mind:
 
-1. **Performance** - tbd
-2. **Stability** - G4N is “always on.” Nothing we put in G4N should cause it to crash, and G4N should guard itself against unruly client behavior that might compromise performance or availability for all clients.
-3. **Principal 3 - tbd**
-4. **Principal 4** - tbd
+1. **Performance**&#x20;
+2. **Stability**\
+   ****G4N is “always on.” Nothing we put in G4N should cause it to crash, and G4N should guard itself against unruly client behavior that might compromise performance or availability for all clients.
+3. **Accessibility**
+4. **Transparency & Trust**
 
 ### Talking to Other G4N Users and Contributors
 
