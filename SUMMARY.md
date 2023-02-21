@@ -29,7 +29,7 @@
 * [FAQ (draft)](reference/faq.md)
 * [Roadmap](reference/roadmap-and-timeline.md)
 * [Contributing](reference/contributing/README.md)
-  * [Contributor Guide](reference/contributing/contributor-guide.md)
+  * [Contributor Guide (draft)](reference/contributing/contributor-guide.md)
   * [Data Providers (draft)](reference/contributing/data-providers-draft.md)
   * [Data Consumers (draft)](reference/contributing/data-consumers-draft.md)
   * [TNFD Realm Leads (draft)](reference/contributing/tnfd-realm-leads-draft.md)
