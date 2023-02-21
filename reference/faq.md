@@ -25,3 +25,7 @@ No. We don't plan to host data sets directly, however if there is enough interes
 **Does the catalog provide data samples?**
 
 We are working with data providers to include sample data and metadata to help data teams better understand the structure of the data they are consuming.&#x20;
+
+**Have a question not answered here?**
+
+[Submit your specific questions about the nature data catalog here](mailto:hello@mrvcollective.org) and we will update this faq.&#x20;
