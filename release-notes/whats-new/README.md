@@ -1,6 +1,6 @@
 # What's New!
 
-Welcome! The NatureData.org team works at a rapid iterative & intentional pace to matches the urgency of the biodiversity & climate challenges at hand. We draw our outcomes based on steering committee inputs and pilot participant interviews. Check back often for release notes and updates!
+Welcome! The NatureData.org team works at a rapid iterative & intentional pace to match the urgency of the biodiversity & climate challenges at hand. We draw our outcomes based on steering committee inputs and pilot participant interviews. Check back often for release notes and updates!
 
 ## February 2022
 
@@ -14,6 +14,8 @@ This release includes the technical foundations to allow users to view datasets 
 
 #### Data Sets Staged
 
+The following is a sample of datasets which have been staged for inclusion.  &#x20;
+
 * [WWF Risk Filter datasets](https://wwf.panda.org/wwf\_news/?7438966/WWFs-new-Biodiversity-Risk-Filter-helps-companies-tackle-nature-related-risks)
 * [Hub Ocean datasets](https://www.hubocean.earth/platform-data)
 * [Harmonized World Soils datasets via FAO](https://gaez.fao.org/pages/hwsd)
@@ -21,6 +23,8 @@ This release includes the technical foundations to allow users to view datasets 
 * Fishchoice datasets
 * Awesome GEE Community Catalog
 * Additional WWF datasets
+
+Have a suggestion? \[Submit here TBD]
 
 ### Tools Staged
 
