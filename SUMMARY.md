@@ -29,7 +29,6 @@
 * [FAQ (draft)](reference/faq.md)
 * [Roadmap](reference/roadmap-and-timeline.md)
 * [Contributing](reference/contributing/README.md)
-  * [Contribute a Data Sources](reference/contributing/contribute-a-data-sources.md)
   * [Contributor Guide](reference/contributing/contributor-guide.md)
   * [Data Providers (draft)](reference/contributing/data-providers-draft.md)
   * [Data Consumers (draft)](reference/contributing/data-consumers-draft.md)
